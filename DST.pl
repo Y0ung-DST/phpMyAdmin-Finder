@@ -20,13 +20,13 @@ ________________________________________
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§ \n";
 print "\t\t\t                         \n";  
-print "\t\t\t PHPmyadmin Finder v.x.x\n";
+print "\t\t\t PHPmyadmin Finder v.0.1\n";
 print "\t\t\t Coded By Y0ung / DST\n";
 print "\t\t_________________________________________________\n";
 print "\n\n";
 sleep (1);
     print "\n\n";
-    print "\t HOST=> (ex: http://www.site.com)\n";
+    print "\t HOST=> (ex: http://www.website.com)\n";
     print "\t HOST=> :";
     $host=<STDIN>;
     chomp($host);
