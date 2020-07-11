@@ -3,7 +3,7 @@
 
 
 system ("cls");
-system ("dOcToR N!nja...");
+system ("DST...");
 print "\t\t
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§\n";
 print "\t\t
