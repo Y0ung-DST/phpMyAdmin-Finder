@@ -21,7 +21,7 @@ ________________________________________
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§ \n";
 print "\t\t\t                         \n";  
 print "\t\t\t PHPmyadmin Finder v.0.1\n";
-print "\t\t\t Coded By Y0ung / DST\n";
+print "\t\t\t By DST\n";
 print "\t\t_________________________________________________\n";
 print "\n\n";
 sleep (1);
