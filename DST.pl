@@ -2,7 +2,7 @@
     use LWP::UserAgent;
 
 
-system ("cls");
+system ("clear"); # use ("cls"); if you are a windows user
 system ("DST...");
 print "\t\t
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§\n";
